@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TubeBallMachine",
+            "request": "launch",
+            "mainClass": "TubeBallMachine",
+            "projectName": "T2_447359e1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TubeBallMachine",
+            "request": "launch",
+            "mainClass": "TubeBallMachine",
+            "projectName": "T2_TubeBallMachine"
+        }
+    ]
+}
