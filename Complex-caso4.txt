@@ -1,0 +1,10 @@
+Trabalho 2 Algoritmo e Estrutura de Dados
+Autores: Arthur, Cassius, Vanderson
+Algoritmo de Dijkstra
+Total de Vertices: 200200
+Total de Arestas: 239982
+Quantidade de tubos: 200
+Quantidade de linhas: 1000
+Tubo com mais saída de bolas: 11
+Quantidade de bolas saindo pelo tubo 11: 200
+Tempo de execução: 117ms
