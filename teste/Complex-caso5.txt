@@ -1,0 +1,8 @@
+Trabalho 2 Algoritmo e Estrutura de Dados
+Autores: Arthur, Cassius, Vanderson
+Algoritmo de Dijkstra
+Quantidade de tubos: 500
+Quantidade de linhas: 2000
+Tubo com mais saída de bolas: 180
+Quantidade de bolas saindo pelo tubo 180: 139
+Tempo de execução: 1s

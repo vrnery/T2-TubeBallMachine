@@ -157,10 +157,10 @@ public class TubeBallMachine {
                 //System.out.println("Tubo "+s);
                 //System.out.printf("Calculo: %d-%d-1 == %d\n", totalVertices, tuboCol, distTo.length);
                 for (int t = (totalVertices - tuboCol); t < (totalVertices - 1); t++) {
-                    //System.out.print(t+":"+distTo[t]+" | "+mD+":"+distTo[mD]+" | ");
+                    System.out.print(t+":"+distTo[t]+" | "+mD+":"+distTo[mD]+" | ");
                     if (distTo[t] < distTo[mD])
                         mD = t;
-                    //System.out.print(mD+"\n");
+                    System.out.print(mD+"\n");
                 }
 
                 //System.out.println("Posicao: "+mD);

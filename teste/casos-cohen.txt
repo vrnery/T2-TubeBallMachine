@@ -1,0 +1,10 @@
+# caso tubo total_bolinhas
+caso-teste 0 5
+caso1 10 5
+caso2 36 18
+caso3 72 85
+caso4 199 82
+caso5 180 139
+caso6 885 250
+caso7 680 546
+caso8 2195 1565
